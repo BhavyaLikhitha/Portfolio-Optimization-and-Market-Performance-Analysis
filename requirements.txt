@@ -6,3 +6,9 @@ seaborn
 plotly
 scikit-learn
 scipy
+xgboost
+lightgbm
+torch
+shap
+mlflow
+streamlit
