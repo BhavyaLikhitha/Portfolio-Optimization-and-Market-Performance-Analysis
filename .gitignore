@@ -3,8 +3,21 @@ __pycache__/
 *.py[cod]
 *$py.class
 .portfolio.log
+portfolio.log
+
+# MLflow
+mlruns/
+mlflow.db
+
+# Trained models & outputs
+*.pt
+*.pkl
+outputs/
+
 # C extensions
 *.so
+CLAUDE.md
+.claude/
 
 # Distribution / packaging
 .Python
